@@ -1,3 +1,0 @@
-/home/qkunkii/ProjectsDTEU/TPP8/build/CMakeFiles/SupermarketORM.dir
-/home/qkunkii/ProjectsDTEU/TPP8/build/CMakeFiles/edit_cache.dir
-/home/qkunkii/ProjectsDTEU/TPP8/build/CMakeFiles/rebuild_cache.dir
