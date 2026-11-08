@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/SupermarketORM.dir/src/main.cpp.o CMakeFiles/SupermarketORM.dir/src/Repo.cpp.o CMakeFiles/SupermarketORM.dir/src/RawApi.cpp.o CMakeFiles/SupermarketORM.dir/src/Demos.cpp.o -o SupermarketORM  vcpkg_installed/x64-linux/debug/lib/libsqlite3.a -ldl 
